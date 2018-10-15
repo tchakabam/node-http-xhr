@@ -51,5 +51,9 @@
     "mocha": "^3.4",
     "nock": "^9.0.13",
     "sinon": "^2.3.4"
+  },
+  "dependencies": {
+    "follow-redirects": "^1.5.9",
+    "request": "^2.88.0"
   }
 }
